@@ -1,5 +1,6 @@
 {
-  "name": "dev-dashboard",
+  "name": "developer-productivity-dashboard",
+
   "version": "0.1.0",
   "private": true,
   "scripts": {
